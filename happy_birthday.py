@@ -1,0 +1,5 @@
+name = input("enter your name: ") 
+birth_month = input("enter your month: ") 
+Birth_day_of_the_month = input("enter your birthday of the month: ")
+Birth_year = input("enter birthyear: ")
+print(name,",your birthday is on",birth_month,Birth_day_of_the_month,",",Birth_year,"!")
